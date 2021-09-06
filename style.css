@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Besley:wght@400;500&family=Hina+Mincho&family=Kaisei+HarunoUmi:wght@500&family=Roboto:wght@500&display=swap');
+
+
+body {
+    background-image: url('https://biblioteca.ibge.gov.br/visualizacao/fotografias/GEBIS%20-%20RJ/sp47209.jpg');
+    background-size: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Besley', serif;
+}
+
+header {
+    background-color: tomato;
+    font-family: 'Roboto', sans-serif;
+    opacity: 0.8;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px
+}
+
+main {
+    background-color: paleturquoise;
+    opacity: 0.8;
+}
+
+iframe {
+    text-align: center;
+}
+
+p {
+    background-color: whitesmoke;
+}
+
+ul {
+    background-color: whitesmoke;
+}
+
+footer {
+    background-color: tomato;
+}
